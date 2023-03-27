@@ -3,7 +3,9 @@
 <h2/>
 
 <p>
-# todo
+	Coletor desenvolvido para a disciplina de Recuperação de Informação, no primeiro semestre de 2023, lecionada pelo professor Daniel Hasan do CEFET-MG.
+	<br/>
+	Este coletor baixa apenas páginas públicas levando em consideração a política de exclusão de robôs, encontrada em robots.txt.
 <p/>
 
 <h2>
@@ -44,12 +46,4 @@
 		<li>Ronaldo: rzica42@gmail.com</li>
 		<li>Vitor: vitorsantanacasa357@gmail.com</li>
 	</ul>
-<p/>
-	
-<h2>
-	Propósito das coletas
-<h2/>
-
-<p>
-# todo
 <p/>
