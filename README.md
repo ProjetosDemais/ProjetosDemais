@@ -11,11 +11,13 @@
 <h1/>
 
 <p>
-<ul>
-  <li>Alexandre Roque Silva de Paula</li>
-  <li>Ronaldo Mendonça Zica</li>
-  <li>Vitor Nelis Santana de Medeiros</li>
-</ul>
+	<h5>
+		<ul>
+		  <li>Alexandre Roque Silva de Paula</li>
+		  <li>Ronaldo Mendonça Zica</li>
+		  <li>Vitor Nelis Santana de Medeiros</li>
+		</ul>
+	<h5/>
 <p/>
 
 <h1>
@@ -39,11 +41,14 @@
 <h1/>
 
 <p>
-<ul>
-  <li>Alexandre: alexandreroque1@hotmail.com</li>
-  <li>Ronaldo: rzica42@gmail.com</li>
-  <li>Vitor: vitorsantanacasa357@gmail.com</li>
-</ul>
+<p>
+	<h5>
+		<ul>
+			<li>Alexandre: alexandreroque1@hotmail.com</li>
+  			<li>Ronaldo: rzica42@gmail.com</li>
+  			<li>Vitor: vitorsantanacasa357@gmail.com</li>
+		</ul>
+	<h5/>
 <p/>
 	
 <h1>
