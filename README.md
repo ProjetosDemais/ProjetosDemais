@@ -21,19 +21,11 @@
 <p/>
 
 <h2>
-	Data das coletas
+	Data e proposito das coletas
 <h2/>
 
 <p>
-# todo
-<p/>
-
-<h2>
-	Propósito das coletas
-<h2/>
-
-<p>
-# todo
+ 04/04/2023 - 20:54 -> Validação do funcionamento e plot do gráfico do tempo de comparação de threads
 <p/>
 
 <h2>
